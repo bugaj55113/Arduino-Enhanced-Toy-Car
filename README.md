@@ -9,7 +9,7 @@ A toy car powered by Arduino with advanced features, including sensor support, m
 4. **Servo**: Used to simulate a lock mechanism.
 
 ## Connection Scheme:
-![Connection Diagram](SCHEMAT ELEKTRYCZNY.jpg)
+[Full Project Documentation](Documentation.pdf)
 
 ## Getting Started:
 1. Clone this repository.
